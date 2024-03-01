@@ -16,3 +16,10 @@ Bonus: An interactive Preact component is included in the header to showcase how
 - Astro (with server option)
 - Tailwind CSS
 - Preact
+
+This was built following the great midudev Astro tutorial
+
+---
+
+*This project was built following the learn [Astro tutorial](https://www.youtube.com/watch?v=RB5tR_nqUEw) by [midudev](https://github.com/midudev).
+
